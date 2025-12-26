@@ -23,34 +23,93 @@
 
 ## 🔧 Skills
 
-### 🧠 Programming
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<div align="center">
 
+<table>
+<tr>
+<td align="center" width="160">
+<img src="https://skillicons.dev/icons?i=c" width="48"/><br/>
+<b>C</b>
+</td>
 
+<td align="center" width="160">
+<img src="https://skillicons.dev/icons?i=cpp" width="48"/><br/>
+<b>C++</b>
+</td>
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-%23000000.svg?style=for-the-badge)
+<td align="center" width="160">
+<img src="https://skillicons.dev/icons?i=java" width="48"/><br/>
+<b>Java</b>
+</td>
 
+<td align="center" width="160">
+<img src="https://skillicons.dev/icons?i=python" width="48"/><br/>
+<b>Python</b>
+</td>
 
+<td align="center" width="160">
+<img src="https://skillicons.dev/icons?i=js" width="48"/><br/>
+<b>JavaScript</b>
+</td>
+</tr>
 
-### 🤖 AI / ML
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230.svg?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+<tr>
+<td align="center" width="160">
+<img src="https://skillicons.dev/icons?i=html" width="48"/><br/>
+<b>HTML</b>
+</td>
 
+<td align="center" width="160">
+<img src="https://skillicons.dev/icons?i=css" width="48"/><br/>
+<b>CSS</b>
+</td>
 
-### 🗄️ Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<td align="center" width="160">
+<img src="https://skillicons.dev/icons?i=react" width="48"/><br/>
+<b>React</b>
+</td>
+
+<td align="center" width="160">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>
+<b>Node.js</b>
+</td>
+
+<td align="center" width="160">
+<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/>
+<b>MySQL</b>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="160">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48"/><br/>
+<b>TensorFlow</b>
+</td>
+
+<td align="center" width="160">
+<img src="https://skillicons.dev/icons?i=git" width="48"/><br/>
+<b>Git</b>
+</td>
+
+<td align="center" width="160">
+<img src="https://skillicons.dev/icons?i=github" width="48"/><br/>
+<b>GitHub</b>
+</td>
+
+<td align="center" width="160">
+<img src="https://skillicons.dev/icons?i=figma" width="48"/><br/>
+<b>Figma</b>
+</td>
+
+<td align="center" width="160">
+<img src="https://skillicons.dev/icons?i=linux" width="48"/><br/>
+<b>Linux</b>
+</td>
+</tr>
+</table>
+
+</div>
+
 
 ---
 
