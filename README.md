@@ -120,7 +120,7 @@ Role-based platform to manage **college events, teams, and registrations**.
 🔹 Full Stack • Role-Based Access  
 🔹 Organizer • Teacher • Student Panels  
 
-<a href="https://github.com/MrRohit2309/Eventify">
+<a href="https://github.com/MrRohit2309/Event-Management">
   <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
