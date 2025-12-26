@@ -164,15 +164,7 @@ Role-based platform to manage **college events, teams, and registrations**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrRohit2309&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=MrRohit2309&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRohit2309&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -184,6 +176,10 @@ Role-based platform to manage **college events, teams, and registrations**.
 ## 📫 Connect With Me
 - 📧 **Email:** rohitsukale2309@gmail.com  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/rohitsukale/
+
+---
+
+<p align="center">✨ 🚀 ✨</p>
 
 ---
 
