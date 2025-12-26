@@ -88,16 +88,54 @@
 ---
 
 ## 📂 Featured Projects
-- **AI-Based Smart Internship Allocation System**  
-  AI-driven system to match students with internships using skill-fit scoring.
-- **Eventify – College Event Management Platform**  
-  Role-based platform for managing college events.
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="" width="90%" />
+
+### 🤖 AI-Based Smart Internship Allocation System
+AI-powered system that intelligently matches students with internships using  
+**skill fit, preferences, and scoring algorithms**.
+
+🔹 AI • ML • Node.js • MySQL  
+🔹 Fair & Transparent Allocation  
+
+<a href="https://github.com/MrRohit2309/AI-Based-Smart-Internships-Allocation-System">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749692-4aaf4b42-7e1d-4c69-9c02-69f7f4f4e79c.png" width="90%" />
+
+### 🎉 Eventify – College Event Management Platform
+Role-based platform to manage **college events, teams, and registrations**.
+
+🔹 Full Stack • Role-Based Access  
+🔹 Organizer • Teacher • Student Panels  
+
+<a href="https://github.com/MrRohit2309/Eventify">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 <p align="center">✨ 🚀 ✨</p>
 
 ---
+
 
 ## 🌱 Currently Learning
 - Data Structures & Algorithms (DSA)
@@ -212,15 +250,7 @@ _"Build skills so strong that opportunities chase you."_
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrRohit2309&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=MrRohit2309&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRohit2309&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
