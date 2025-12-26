@@ -95,7 +95,7 @@
 <tr>
 <td width="50%" align="center">
 
-<img src="" width="90%" />
+<img src="assets/Homepage.jpeg" width="90%" />
 
 ### 🤖 AI-Based Smart Internship Allocation System
 AI-powered system that intelligently matches students with internships using  
@@ -164,16 +164,26 @@ Role-based platform to manage **college events, teams, and registrations**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrRohit2309&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MrRohit2309&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MrRohit2309&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=MrRohit2309&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRohit2309&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRohit2309&layout=compact&theme=tokyonight&hide_border=true"
+    height="150"
+  />
 </p>
+
 
 ---
 
@@ -191,66 +201,7 @@ Role-based platform to manage **college events, teams, and registrations**.
 _"Build skills so strong that opportunities chase you."_
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=MrRohit2309&ico
-
-
----
-
-<p align="center">✨ 🚀 ✨</p>
-
----
-
-## 🧑🏻‍💻 My Setup
-- 💻 **MacBook Air (M2)**
-- 🖥️ **Windows PC**
-- 💾 SSD + HDD multi-OS setup (Linux & Windows)
-
----
-
-<p align="center">✨ 🚀 ✨</p>
-
----
-
-## 📂 Featured Projects
-- **AI-Based Smart Internship Allocation System**  
-  AI-driven platform for fair internship matching using fit-score algorithms.
-- **Eventify – College Event Management Platform**  
-  Role-based event creation and management system for colleges.
-
----
-
-<p align="center">✨ 🚀 ✨</p>
-
----
-
-## 🌱 Currently Learning
-- Data Structures & Algorithms (DSA)
-- Advanced Java
-- AI / Machine Learning
-- System Design
-- Backend Architecture
-
----
-
-<p align="center">✨ 🚀 ✨</p>
-
----
-
-## 🏆 Certifications & Achievements
-- 🏅 Certified in **AI for India**
-- 🏅 Certified in **Web Development**
-- 🏅 Academic Project Contributor
-
----
-
-<p align="center">✨ 🚀 ✨</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MrRohit2309&theme=tokyonight&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=MrRohit2309&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -258,20 +209,3 @@ _"Build skills so strong that opportunities chase you."_
 <p align="center">✨ 🚀 ✨</p>
 
 ---
-
-## 📫 Connect With Me
-- 📧 **Email:** rohitsukale2309@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/rohitsukale/
-
----
-
-<p align="center">✨ 🚀 ✨</p>
-
----
-
-### ✨ Quote
-_"Build skills so strong that opportunities chase you."_
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=MrRohit2309&icon=0&color=6" />
-</p>
