@@ -112,7 +112,7 @@ AI-powered system that intelligently matches students with internships using
 
 <td width="50%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212749692-4aaf4b42-7e1d-4c69-9c02-69f7f4f4e79c.png" width="90%" />
+<img src="assets/Eventify Homepage.jpeg" width="90%" />
 
 ### 🎉 Eventify – College Event Management Platform
 Role-based platform to manage **college events, teams, and registrations**.
